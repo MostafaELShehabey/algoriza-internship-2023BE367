@@ -1,0 +1,5 @@
+G:\My project\Repositpry\obj\Debug\net5.0\Repositpry.csproj.AssemblyReference.cache
+G:\My project\Repositpry\obj\Debug\net5.0\Repositpry.GeneratedMSBuildEditorConfig.editorconfig
+G:\My project\Repositpry\obj\Debug\net5.0\Repositpry.AssemblyInfoInputs.cache
+G:\My project\Repositpry\obj\Debug\net5.0\Repositpry.AssemblyInfo.cs
+G:\My project\Repositpry\obj\Debug\net5.0\Repositpry.csproj.CoreCompileInputs.cache
