@@ -1,5 +1,0 @@
-G:\My project\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
-G:\My project\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
-G:\My project\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
-G:\My project\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
-G:\My project\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
